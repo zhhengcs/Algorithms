@@ -21,10 +21,15 @@ strcut edgenode
 
 int head[maxn],k = 0;//节点头，边的编号
 
-void addedge(int i,int j,int len)
+void addedge(int i,int j,int len)//add edd
 {
 	Edges[k].to = j;
 	Edges[k].len = len;
 	Edges[k].next = head[i];
 	head[i] = k++;
+}
+for(int i = head[u],i!=-1;i = Edges[i].next)//iterator
+{
+	edgenode e = Edges[i];
+	//code....
 }
