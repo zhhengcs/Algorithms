@@ -1,0 +1,30 @@
+int m = 2000,n = 1000;
+//
+int g[maxn][maxm];//matrix
+g[u][v] = len
+
+//
+struct node
+{
+	int to,len;
+};
+vector<node> G[maxn];
+g[i].push_back((node){to,len});
+
+//
+strcut edgenode
+{
+	int to;
+	int len;
+	int next;
+}Edges[maxm];
+
+int head[maxn],k = 0;
+
+void addedge(int i,int j,int len)
+{
+	Edges[k].to = j;
+	Edges[k].len = len;
+	Edges[k].next = head[i];
+	head[i] = k++;
+}
