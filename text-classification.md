@@ -39,9 +39,9 @@
 * [Recursive deep model](http://aclweb.org/anthology/D/D13/D13-1170.pdf)
 
 ## semi-supervised algorithm
-* [semi-supervised CNN]((http://arxiv.org/pdf/1504.01255)
+* [semi-supervised CNN](http://arxiv.org/pdf/1504.01255)
 * [semi-supervised LSTM](http://jmlr.org/proceedings/papers/v48/johnson16.pdf)
-* [Semi-Supervised Recursive Autoencoders(RAE)]
+* [Semi-Supervised Recursive Autoencoders(RAE)](http://www.anthology.aclweb.org/D/D11/D11-1014.pdf)
 * [Semi-supervised sequential Variational AutoEncoder (SSVAE)](http://arxiv.org/pdf/1603.02514)
 * Recursive AutoEncoders with pre-trainedword(RAE)
 
@@ -51,6 +51,7 @@
 * [Hierarchical Attention Networks](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)
 
 ## other
+* [Combinatorial Category Autoencoders]
 * [TDNN(时间延迟神经网络)]
 * [RBN(受限玻尔兹曼机)](http://www.jmlr.org/papers/volume13/larochelle12a/larochelle12a.pdf)
 * [DBN+Active](http://www.aclweb.org/anthology/C10-2173.pdf)
@@ -60,6 +61,11 @@
 * [基础讲解](https://mindmodeling.org/cogsci2015/papers/0052/paper0052.pdf)
 
 ## Datasets
-* IMDB
-* 20NG
-* RCV1
+* English:
+    IMDB/20News
+
+* Chinese
+    50W article/sougou news 
+
+##  Test standard
+P, R, F 
