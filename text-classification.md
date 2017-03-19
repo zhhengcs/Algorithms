@@ -1,6 +1,7 @@
 # Text catagorization via deep learning methods
 
-## baseline:
+# baseline:
+## supervised algorithm
 ### SVM/Naive Bayes
 * word2vec/n-gram svm
 * [Bigram NB-SVM](http://aclweb.org/anthology/P/P12/P12-2018.pdf)
@@ -29,9 +30,11 @@
 * [Attention Based LSTM](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)
 ### ReNN
 * [RNTN(递归神经张量网络)](http://www.aclweb.org/anthology/D/D13/D13-1170.pdf)
-* [DRNN](Deep recursive neural networks for compositionality in language)
+* [DRNN](http://papers.nips.cc/paper/5551-deep-recursive-neural-networks-for-compositionality-in-language.pdf)
 * [MV-RNN(Matrix-Vector)](https://www-nlp.stanford.edu/pubs/SocherHuvalManningNg_EMNLP2012.pdf)
-### other
+## semi-supervised algorithm
+
+## other
 * [TDNN(时间延迟神经网络)]
 * [RBN(受限玻尔兹曼机)](http://www.jmlr.org/papers/volume13/larochelle12a/larochelle12a.pdf)
 * [Semi-Supervised Recursive Autoencoders(RAE)]
