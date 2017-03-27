@@ -54,6 +54,7 @@
 * [Hierarchical Attention Networks](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)
 
 ## 1.4 other
+* [NLP from  from scratch](https://arxiv.org/pdf/1103.0398.pdf)
 * [Combinatorial Category Autoencoders]
 * [TDNN(时间延迟神经网络)]
 * [RBN(受限玻尔兹曼机)](http://www.jmlr.org/papers/volume13/larochelle12a/larochelle12a.pdf)
