@@ -27,15 +27,17 @@
 * [Depth-gated RNN](https://arxiv.org/pdf/1508.03790v2.pdf)
 * [TBLSTM(tree based)](http://aclweb.org/anthology/P/P15/P15-1150.pdf)
 * [*Sequence autoencoders-LSTM/recurrent language models-LSTM](https://arxiv.org/pdf/1511.01432.pdf)
-    LSTMs are initialized with a sequence autoencoder, The objective is to reconstruct the input sequence itself
-* [RCNN(Recurrent convolutional neural networks)](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9745/9552)
-    BiRNN to capture the contextual information,maxpooling
+* [RCNN(Recurrent convolutional neural networks)](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9745/9552)    
 * [*Conv-GRNN and LSTM-GRNN :](Conv-GRNN and LSTM-GRNN)
----a CNN or LSTM provides a sentence vector, and then a gated recurrent neural network (GRNN) combinesthe sentence vectors from a document level vector representation for classification.
 * LSTMN
 * Multi-Task
 
-### 1.1.5 ReNN
+### 1.1.5 attention based model
+* [*attention CNN](http://isca-speech.org/archive/Interspeech_2016/pdfs/0354.PDF)
+* [*attention LSTM](http://www.aclweb.org/old_anthology/D/D16/D16-1058.pdf)
+* [Hierarchical Attention Networks](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)
+
+### 1.1.6 ReNN
 * [RNTN(递归神经张量网络)](http://www.aclweb.org/anthology/D/D13/D13-1170.pdf)
 * [DRNN](http://papers.nips.cc/paper/5551-deep-recursive-neural-networks-for-compositionality-in-language.pdf)
 * [*MV-RNN(Matrix-Vector)](https://www-nlp.stanford.edu/pubs/SocherHuvalManningNg_EMNLP2012.pdf)
@@ -48,12 +50,7 @@
 * [*Semi-supervised sequential Variational AutoEncoder (SSVAE)](http://arxiv.org/pdf/1603.02514)
 <!-- * Recursive AutoEncoders with pre-trainedword(RAE) -->
 
-## 1.3 Attention based model
-* [*attention CNN](http://isca-speech.org/archive/Interspeech_2016/pdfs/0354.PDF)
-* [*attention LSTM](http://www.aclweb.org/old_anthology/D/D16/D16-1058.pdf)
-* [Hierarchical Attention Networks](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)
-
-## 1.4 other
+## 1.3 other
 * [NLP from  from scratch](https://arxiv.org/pdf/1103.0398.pdf)
 * [Combinatorial Category Autoencoders]
 * [TDNN(时间延迟神经网络)]
