@@ -28,7 +28,7 @@
 * [TBLSTM(tree based)](http://aclweb.org/anthology/P/P15/P15-1150.pdf)
 * [*Sequence autoencoders-LSTM/recurrent language models-LSTM](https://arxiv.org/pdf/1511.01432.pdf)
 * [RCNN(Recurrent convolutional neural networks)](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9745/9552)    
-* [*Conv-GRNN and LSTM-GRNN :](Conv-GRNN and LSTM-GRNN)
+* [*Conv-GRNN and LSTM-GRNN :](http://www.aclweb.org/website/anthology/D/D15/D15-1167.pdf)
 * LSTMN
 * Multi-Task
 
