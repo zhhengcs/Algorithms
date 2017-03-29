@@ -22,7 +22,6 @@
 * [*BiLSTM](https://arxiv.org/pdf/1508.01991v1.pdf)
 * [Depth-gated RNN](https://arxiv.org/pdf/1508.03790v2.pdf)
 * [TBLSTM(tree based)](http://aclweb.org/anthology/P/P15/P15-1150.pdf)
-* [*Sequence autoencoders-LSTM/recurrent language models-LSTM](https://arxiv.org/pdf/1511.01432.pdf)
 * [RCNN(Recurrent convolutional neural networks)](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9745/9552)    
 * [*Conv-GRNN and LSTM-GRNN :](http://www.aclweb.org/website/anthology/D/D15/D15-1167.pdf)
 
@@ -43,6 +42,7 @@
 * [semi-supervised LSTM](http://jmlr.org/proceedings/papers/v48/johnson16.pdf)
 * [Semi-Supervised Recursive Autoencoders(RAE)](http://www.anthology.aclweb.org/D/D11/D11-1014.pdf)
 * [*Semi-supervised sequential Variational AutoEncoder (SSVAE)](http://arxiv.org/pdf/1603.02514)
+* [*Sequence autoencoders-LSTM/recurrent language models-LSTM](https://arxiv.org/pdf/1511.01432.pdf)
 
 ## 1.3 other
 * [NLP from  from scratch](https://arxiv.org/pdf/1103.0398.pdf)
