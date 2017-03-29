@@ -20,7 +20,6 @@
 ### 1.1.4 LSTM
 * [*one-hot/w2v LSTM](http://jmlr.org/proceedings/papers/v48/johnson16.pdf)
 * [*BiLSTM](https://arxiv.org/pdf/1508.01991v1.pdf)
-* [Gated RNN](http://www.aclweb.org/website/anthology/D/D15/D15-1167.pdf)
 * [Depth-gated RNN](https://arxiv.org/pdf/1508.03790v2.pdf)
 * [TBLSTM(tree based)](http://aclweb.org/anthology/P/P15/P15-1150.pdf)
 * [*Sequence autoencoders-LSTM/recurrent language models-LSTM](https://arxiv.org/pdf/1511.01432.pdf)
