@@ -12,9 +12,6 @@
 * [*Dynamic CNN](http://aclweb.org/anthology/P14-1062)
 * [TBCNN(tree-based convolution)](http://www.aclweb.org/anthology/D/D15/D15-1279.pdf)
 * [Character-level CNN](https://arxiv.org/pdf/1509.01626.pdf)
-* Modeling-CNN
-* CNN-Ana
-* MV-CNN(Multichannel variable-size convolution)
 
 ### 1.1.3 RNN
 * [deep RNN](http://papers.nips.cc/paper/5551-deep-recursive-neural-networks-for-compositionality-in-language.pdf)
@@ -29,8 +26,7 @@
 * [*Sequence autoencoders-LSTM/recurrent language models-LSTM](https://arxiv.org/pdf/1511.01432.pdf)
 * [RCNN(Recurrent convolutional neural networks)](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9745/9552)    
 * [*Conv-GRNN and LSTM-GRNN :](http://www.aclweb.org/website/anthology/D/D15/D15-1167.pdf)
-* LSTMN
-* Multi-Task
+
 
 ### 1.1.5 attention based model
 * [*attention CNN](http://isca-speech.org/archive/Interspeech_2016/pdfs/0354.PDF)
@@ -48,7 +44,6 @@
 * [semi-supervised LSTM](http://jmlr.org/proceedings/papers/v48/johnson16.pdf)
 * [Semi-Supervised Recursive Autoencoders(RAE)](http://www.anthology.aclweb.org/D/D11/D11-1014.pdf)
 * [*Semi-supervised sequential Variational AutoEncoder (SSVAE)](http://arxiv.org/pdf/1603.02514)
-<!-- * Recursive AutoEncoders with pre-trainedword(RAE) -->
 
 ## 1.3 other
 * [NLP from  from scratch](https://arxiv.org/pdf/1103.0398.pdf)
