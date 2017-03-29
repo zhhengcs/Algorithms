@@ -47,8 +47,7 @@
 
 ## 1.3 other
 * [NLP from  from scratch](https://arxiv.org/pdf/1103.0398.pdf)
-* [Combinatorial Category Autoencoders]
-* [TDNN(时间延迟神经网络)]
+* [TDNN(时间延迟神经网络)]()
 * [RBN(受限玻尔兹曼机)](http://www.jmlr.org/papers/volume13/larochelle12a/larochelle12a.pdf)
 * [DBN+Active](http://www.aclweb.org/anthology/C10-2173.pdf)
 * [Stacked Boltzmann Experts Network](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP053.pdf)
