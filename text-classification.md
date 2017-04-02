@@ -13,6 +13,7 @@
 * [TBCNN(tree-based convolution)](http://www.aclweb.org/anthology/D/D15/D15-1279.pdf)
 * [Character-level CNN](https://arxiv.org/pdf/1509.01626.pdf)
 * [CharacterCNN espacially in Chinese](https://arxiv.org/pdf/1611.04358.pdf)
+* [deep CNN](https://arxiv.org/pdf/1606.01781.pdf)
 ### 1.1.3 RNN
 * [deep RNN](http://papers.nips.cc/paper/5551-deep-recursive-neural-networks-for-compositionality-in-language.pdf)
 * [stack RNN](https://arxiv.org/pdf/1312.6026.pdf)
