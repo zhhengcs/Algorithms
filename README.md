@@ -1,2 +1,0 @@
-# Algorithms
-To test algorithm.
