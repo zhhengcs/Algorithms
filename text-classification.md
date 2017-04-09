@@ -54,7 +54,7 @@
 * http://www0.cs.ucl.ac.uk/staff/w.zhang/papers/lshtc.pdf
 * [LSTM讲解](http://www.jianshu.com/p/f3bde26febed)
 * [基础讲解](https://mindmodeling.org/cogsci2015/papers/0052/paper0052.pdf)
-* [Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts](https://arxiv.org/pdf/1509.01626.pdf)
+
 ## 2.Datasets
 * English:
     IMDB/20News
